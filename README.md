@@ -1,7 +1,7 @@
 Univesidade Lusófona
 **Programação Web**
 
-# Ficha 8: Aplicações web e edição de seus dados com formulários
+# Ficha 8: Desvendando o Poder dos Formulários nas suas Aplicações Django
 
 ### Objetivo:
 * Familiarizar-se com formulários que permitam inserir conteúdos (objectos, 1:N, N:M)
