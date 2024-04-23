@@ -8,7 +8,7 @@ Univesidade Lusófona
 
 ### Recomendações:
 * consultar os slides da aula
-* consultar o [repositório](https://github.com/ULHT-PW/bibliotecalusofona/tree/main?tab=readme-ov-file#formul%C3%A1rio-de-cria%C3%A7%C3%A3o-de-novo-autor) com os passos para implementação de operações CRUD
+* consultar o [repositório](https://github.com/ULHT-PW/bibliotecalusofona/tree/main?tab=readme-ov-file#formul%C3%A1rio-de-cria%C3%A7%C3%A3o-de-novo-autor) com os passos para implementação de operações CRUD através de formulários
 
 
 # aplicação web bandas 🎸
