@@ -1,7 +1,7 @@
 Univesidade Lusófona
 **Programação Web**
 
-# Ficha 8: Desvendando o Poder dos Formulários nas suas Aplicações Django
+# Ficha 8: Desvendando o Poder dos Formulários nas Aplicações Django
 
 ### Objetivo:
 * Familiarizar-se com formulários que permitam inserir conteúdos (objectos, 1:N, N:M)
