@@ -13,6 +13,8 @@ Univesidade Lusófona
 
 # autenticação
 * Integrar o registo, autenticação e recuperação de senha de utilizadores
+* criar tres grupos de utilizadores: editores de bandas, artigos e curso
+* crie um conjunto de utilizadores com permissoes diferentes
 
 # aplicação web bandas 🎸
 Se o utilizador estiver autenticado, torne editáveis todos os dados, permitindo criar, alterar e remover elementos (banda, álbum, música).
