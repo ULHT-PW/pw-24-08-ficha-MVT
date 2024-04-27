@@ -17,13 +17,13 @@ Univesidade Lusófona
 * crie um conjunto de utilizadores com permissoes diferentes
 
 # aplicação web bandas 🎸
-Se o utilizador estiver autenticado, torne editáveis todos os dados, permitindo criar, alterar e remover elementos (banda, álbum, música).
+* Se o utilizador estiver autenticado, torne editáveis todos os dados, permitindo criar, alterar e remover elementos (banda, álbum, música).
 
 # aplicação artigos 📚
-Se o utilizador estiver autenticado, torne editáveis todos os dados (criar, alterar e remover elementos).
+* Se o utilizador estiver autenticado, torne editáveis todos os dados (criar, alterar e remover elementos).
 
 # aplicação curso 🎓
-Se o utilizador estiver autenticado, torne editáveis todos os dados (criar, alterar e remover elementos).
+* Se o utilizador estiver autenticado, torne editáveis todos os dados (criar, alterar e remover elementos).
 
 
 
