@@ -17,10 +17,10 @@ Univesidade Lusófona
 # aplicação web bandas 🎸
 Se o utilizador estiver autenticado, torne editáveis todos os dados, permitindo criar, alterar e remover elementos (banda, álbum, música).
 
-# aplicação artigos
+# aplicação artigos 📚
 Se o utilizador estiver autenticado, torne editáveis todos os dados (criar, alterar e remover elementos).
 
-# aplicação artigos
+# aplicação curso 🎓
 Se o utilizador estiver autenticado, torne editáveis todos os dados (criar, alterar e remover elementos).
 
 
