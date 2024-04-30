@@ -12,6 +12,7 @@ Esta ficha tem tarefas para duas semanas de aulas, entre 22 a 3 de maio.
 ### Recomendações:
 * consultar os slides da aula
 * consultar o [repositório](https://github.com/ULHT-PW/bibliotecalusofona/tree/main?tab=readme-ov-file#formul%C3%A1rio-de-cria%C3%A7%C3%A3o-de-novo-autor) com os passos para implementação de operações CRUD através de formulários
+* consultar a aplicação [biblio](https://github.com/ULHT-PW/biblio) para integrar autenticação
 
 # 0. autenticação
 * crie no seu projeto uma nova aplicação autenticação. 
