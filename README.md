@@ -23,8 +23,8 @@ Esta ficha tem tarefas para duas semanas de aulas, entre 22 a 3 de maio.
 * restringir o acesso a views de edição de campos a utilizadores autenticados, adaptando o decorador @login_required para só permitir editar utilizadores que façam parte do grupo de utilizadores da aplicação.
    * utilizadores do grupo bandas não deverão poder editar artigos ou adicionar projetos ao curso.
    * o mesmo para artigos e curso.
-   * **para os artigos, associe o autor ao utilizador autenticado e conectado, ficando tanto os artigos como conentarios associados a quem os escreveu. pode criar na classe do artigo um campo autor com foreignkey User (importando-o com  
-`from django.contrib.auth.models import User`). pode assim aceder ao nome do utilizador user.first_name, etc**
+   * **na app dos artigos, na classe do artigo adicione um campo `autor` que é foreignkey User `autor = models.ForeignKey(User, on_delete=models.CASCADE, related_name='artigos')`. Deve importar a classe User com`  
+`from django.contrib.auth.models import User`). pode assim aceder ao nome do utilizador user.first_name e apresentar nos artigos e comentários, etc**
 * apenas mostrar botões de editar/criar/apagar se o utilizador estiver autenticado e pertencer ao grupo de utilizadores da aplicação.
 
 # A. aplicação web bandas 🎸
