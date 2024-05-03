@@ -18,7 +18,7 @@ Esta ficha tem tarefas para duas semanas de aulas, entre 22 a 3 de maio.
 * crie no seu projeto uma nova aplicação autenticação. 
 * criar três grupos de utilizadores: editores de bandas, artigos e curso. Estes podem editar diretamente no admin, visualizando, adicionando e alterando certas tabelas, mas não podendo apagar nada.
 * crie pelo menos um utilizador por grupo.
-* Integrar na aplicação de autenticação views com funcionalidades de registo, autenticação e recuperação de senha de utilizadores, tal como ensinado na aula. Em particular, para envio de email deverá configurar a conta Google associada como indicado nos slides de modo a habilitar o acesso a APIs (apps menos seguras) [ref](https://github.com/ULHT-PW/biblio/blob/main/README.md#aplica%C3%A7%C3%A3o-biblioteca-com-integra%C3%A7%C3%A3o-de-autentica%C3%A7%C3%A3o).
+* Integrar na aplicação de autenticação views com funcionalidades de registo, autenticação e recuperação de senha de utilizadores, tal como ensinado na aula. Em particular, para envio de email deverá configurar a conta Google associada como indicado nos slides de modo a habilitar o acesso a APIs (apps menos seguras) [[ref]](https://github.com/ULHT-PW/biblio/blob/main/README.md#aplica%C3%A7%C3%A3o-biblioteca-com-integra%C3%A7%C3%A3o-de-autentica%C3%A7%C3%A3o).
 * integrar nas três aplicações no menu um botão que permite fazer login na aplicação.
 * restringir o acesso a views de edição de campos a utilizadores autenticados, adaptando o decorador @login_required para só permitir editar utilizadores que façam parte do grupo de utilizadores da aplicação.
    * utilizadores do grupo bandas não deverão poder editar artigos ou adicionar projetos ao curso.
