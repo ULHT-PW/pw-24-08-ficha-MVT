@@ -1,7 +1,7 @@
 Universidade Lusófona
 **Programação Web**
 
-# Ficha 8: O Poder dos Formulários e Autenticação nas Aplicações Django
+# Ficha 8 & 9: O Poder dos Formulários e Autenticação nas Aplicações Django
 
 Esta ficha tem tarefas para duas semanas de aulas, entre 22 a 3 de maio.
 
