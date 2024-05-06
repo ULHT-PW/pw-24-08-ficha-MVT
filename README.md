@@ -1,4 +1,4 @@
-Univesidade Lusófona
+Universidade Lusófona
 **Programação Web**
 
 # Ficha 8: O Poder dos Formulários e Autenticação nas Aplicações Django
